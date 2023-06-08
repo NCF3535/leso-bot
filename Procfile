@@ -1,0 +1,1 @@
+web: python leso-bot/lesobot.py runserver 0.0.0.0:5000
